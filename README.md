@@ -3,7 +3,8 @@
 ## Project overview:
 This project uses Recurrent Neural Network (RNN) with Word Embeddings in Pytorch to predict users' sentiments. The user will write a review (in normal text format) about a movie, the model then receives it and predicts whether that review is ```positive``` or ```negative```.
 
-* This notebook is a programming assignment from the course [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101). *
+* This mini project is a programming assignment from the course [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) and is part of my learning path with AI/Deep Learning. *
+
 
 >Using an RNN rather than a strictly feedforward network is more accurate since we can include information about the *sequence* of words. 
 
